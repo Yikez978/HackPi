@@ -13,6 +13,8 @@ It works automatically on Windows, Linux and MacOs without any user interaction 
 </li>
 <li>Execute the installer:
   <br/>
+  <code>cd ./HackPi/</code>
+<br/>
   <code>sudo chmod +x install.sh</code>
   <br/>
   <code>./install.sh</code>
